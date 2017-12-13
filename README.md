@@ -1,0 +1,3 @@
+# colorgame
+#build this game when learning frontend developement from udemy web developement bootcamp as instructor already taught how to build this game...
+#includes simple html , css ,javascript (only frontend);
